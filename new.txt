@@ -1,0 +1,4 @@
+Name: Rauf
+Lastname: Testov
+Animals: 3
+Salary: 1000
